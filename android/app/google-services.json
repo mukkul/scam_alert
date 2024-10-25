@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "933314969288",
+    "project_id": "scam-alert-7749c",
+    "storage_bucket": "scam-alert-7749c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933314969288:android:a491aa6730e0c61a766ffd",
+        "android_client_info": {
+          "package_name": "com.techforst.scam_alert"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5jLJVUi9GBCNGHUPIWgDm9VeRaBwF7WA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
