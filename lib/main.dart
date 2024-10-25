@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:scam_alert/presentation/features/home_page/home_page.dart';
 
 void main() {
   runApp(const MyApp());
@@ -9,8 +10,8 @@ class MyApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return const MaterialApp(
-      home: ScamAlertHomePage(),
+    return MaterialApp(
+      home: HomePage(),
     );
   }
 }
