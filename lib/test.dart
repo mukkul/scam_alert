@@ -1,7 +1,7 @@
 import 'test1.dart';
 
 class NutritionFacts {
-  NutritionFacts._() {}
+  NutritionFacts._();
 }
 
 void main() {
