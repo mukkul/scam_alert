@@ -1,4 +1,4 @@
-package com.example.scam_alert
+package com.techforst.scam_alert
 
 import io.flutter.embedding.android.FlutterActivity
 
